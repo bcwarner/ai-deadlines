@@ -26,6 +26,20 @@
   sub: CG
   note: Mandatory abstract deadline on Jan 23, 2024. More info <a href='https://s2024.siggraph.org/program/technical-papers/'>here</a>.
 
+- title: KDD
+  year: 2024
+  id: kdd24
+  link: https://kdd.org/kdd2024/
+  deadline: '2024-02-01 23:59:59'
+  timezone: UTC-12
+  place: Barcelona, Spain
+  date: August 25-29, 2024
+  start: 2024-08-25
+  end: 2024-08-29
+  hindex: 129
+  sub: DM
+  note: Second deadline is for papers to appear in KDD 2025. More info <a href="https://kdd2024.kdd.org">here</a>
+
 - title: UAI
   year: 2024
   id: uai24
